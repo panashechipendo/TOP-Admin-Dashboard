@@ -1,0 +1,8 @@
+<svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bell body -->
+  <path d="M12 5.33A4 4 0 0 0 4 5.33c0 4.67-2 6-2 6h12s-2-1.33-2-6Z" fill="white" stroke="black" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bell bottom -->
+  <path d="M9.15 14a1.33 1.33 0 0 1-2.3 0" fill="none" stroke="black" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notification dot -->
+  <circle cx="12" cy="4" r="2" fill="white" stroke="black" stroke-width="0.8"/>
+</svg>
