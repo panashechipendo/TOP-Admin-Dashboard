@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Blue background -->
+  <rect width="100" height="100" fill="#2196F3" rx="8"/>
+  
+  <!-- Dashboard grid -->
+  <g fill="white">
+    <!-- Top left square -->
+    <rect x="20" y="20" width="25" height="25" rx="2"/>
+    
+    <!-- Top right rectangle -->
+    <rect x="55" y="20" width="25" height="12" rx="2"/>
+    
+    <!-- Bottom left rectangle -->
+    <rect x="20" y="55" width="25" height="12" rx="2"/>
+    
+    <!-- Bottom right square -->
+    <rect x="55" y="37" width="25" height="43" rx="2"/>
+  </g>
+</svg>
